@@ -6,13 +6,18 @@ Project Overview
 
 This project presents a comprehensive HR analytics solution designed to provide data-driven insights into key human resources metrics. The analysis focuses on understanding employee demographics, retention, and performance, enabling HR professionals and management to make informed decisions and develop strategic initiatives to improve the workforce.
 
-1. Project Scenario
+1. Project overview
 
-The goal of this project is to create an HR analytics dashboard and report. The key focus is to analyze employee data to understand trends, identify factors influencing employee retention, and provide a clear overview of the workforce. The analysis covers various aspects of HR, from quarterly performance to a deeper dive into employee retention strategies.
+ In this project scenario, I have been asked to create a dashboard for HR analytics 
+ <img width="1828" height="726" alt="image" src="https://github.com/user-attachments/assets/3296183d-d2a2-46d3-95e1-dc285cea8a84" />
+
 
 2. Dataset
 
-The project utilizes several datasets, as indicated by the various CSV files (Q1.csv, Q2.csv, Q3.csv, Q4.csv, Q5.csv, Q6.csv). The data appears to be structured to support a comprehensive analysis of employee information.
+The project utilizes several datasets, as indicated by the various CSV files. The data appears to be structured to support a comprehensive analysis of employee information.
+
+<img width="565" height="118" alt="image" src="https://github.com/user-attachments/assets/be5cea10-2187-4b3a-a843-b475148e4754" />
+
 
 3. Data Cleaning
 
@@ -31,6 +36,11 @@ Quarterly Performance: The Q1.csv through Q6.csv files suggest an analysis of da
 Workforce Demographics: The analysis would provide insights into the composition of the workforce, including demographics like age, tenure, department, and location.
 
 Key HR Metrics: The project would likely track important KPIs such as employee headcount, performance metrics, and salary distribution, as presented in the HR Analysis PPT.pptx file.
+
+Final Dashboard
+
+<img width="1037" height="623" alt="image" src="https://github.com/user-attachments/assets/1e18b15e-15bc-464f-ab6f-b5edb605d010" />
+
 
 Conclusion
 
