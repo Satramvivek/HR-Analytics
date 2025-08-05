@@ -6,7 +6,7 @@ This project presents a comprehensive HR analytics solution designed to provide 
 
 1. Project overview
 
- In this project scenario, I have been asked to create a dashboard for HR analytics 
+ In this project scenario, I have been asked to create a dashboard for HR analytics. The KPIs to show are given in the image below:
  <img width="1828" height="726" alt="image" src="https://github.com/user-attachments/assets/3296183d-d2a2-46d3-95e1-dc285cea8a84" />
 
 
