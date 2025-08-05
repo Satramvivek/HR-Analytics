@@ -1,7 +1,6 @@
 # HR-Analytics
 HR Analytics dashboard project using Excel, Power BI, SQL &amp; Tableau. Tracks key metrics like Attrition Rate, Absenteeism, and Tenure. Includes interactive visuals, cleaned datasets, and insights for data-driven HR decisions.
 
-HR Analytics Readme
 Project Overview
 
 This project presents a comprehensive HR analytics solution designed to provide data-driven insights into key human resources metrics. The analysis focuses on understanding employee demographics, retention, and performance, enabling HR professionals and management to make informed decisions and develop strategic initiatives to improve the workforce.
